@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 node_modules
 data
+=======
+.glitchdotcom.json
+.node-gyp
+node_modules
+>>>>>>> e3b2c81bdf51dba607c23698ddacd0eed11863cf
