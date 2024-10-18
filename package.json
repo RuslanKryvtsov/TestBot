@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot-project",
+  "version": "1.0.0",
+  "description": "A Discord bot project running on Glitch",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "stream-browserify": "^3.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://glitch.com/edit/#!/discord-bot-project"
+  },
+  "license": "MIT",
+  "keywords": [
+    "discord",
+    "bot",
+    "glitch"
+  ]
+}
